@@ -16,10 +16,10 @@ Under Construction
 
 # Contact Me
 
- ## GitHub<a href="https://github.com/{{ site.github.username }}" target="_blank"> <i class="fab fa-github-alt"></i> </a>
+## GitHub <a href="https://github.com/{{ site.github.username }}" target="_blank"> <i class="fab fa-github-alt"></i> </a>
 
- Yalobe
+ [Yalobe](https://github.com/Yalobe)
 
 ## Email {% assign email = site.social.email | split: '@' %} <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))"> <i class="fas fa-envelope"></i> </a> 
 
-Jacob.Nadelman1@gmail.com
+<Jacob.Nadelman1@gmail.com>

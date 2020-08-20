@@ -13,6 +13,8 @@ This is a first post, to test the system.
 
 ## Subheading
 
+I don't like this in the heading though.
+
 $$\frac{2x}{444}$$
 
 **BOLD**

@@ -29,8 +29,8 @@ twitter:
   username: No_Twitter!            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Jacob Nadelman                 # it will shows as the copyright owner in Footer
+  email: jacob.nadelman1@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage

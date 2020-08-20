@@ -9,3 +9,21 @@ title: About
 ---
 
 > I am a graduate of Williams College, currently completing the NYU Tandon Bridge to Masters Program. My interests include data science, machine learning, and blockchain technologies.
+
+# Resume/CV
+
+# Contact Me
+
+ <a href="https://github.com/{{ site.github.username }}" target="_blank"> 
+   <i class="fab fa-github-alt"></i> 
+ </a> 
+ <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"> 
+   <i class="fab fa-twitter"></i> 
+ </a> 
+ {% assign email = site.social.email | split: '@' %} 
+ <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))"> 
+   <i class="fas fa-envelope"></i> 
+ </a> 
+ <a href="{{ site.baseurl }}/feed.xml" target="_blank"> 
+   <i class="fas fa-rss"></i> 
+ </a> 

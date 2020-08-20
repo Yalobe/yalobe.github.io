@@ -1,13 +1,13 @@
 ---
 title: First Post!
 date: 2020-08-20 09:00:00 -0400
-categories: [Posts, Blog]
-tags: [blog first post]    # TAG names should always be lowercase
+categories: Posts, Blog
+tags: blog first post    # TAG names should always be lowercase
 toc: false
 math: true
 ---
 
-This is a first post, to test the system. 
+This is a first post, to test the system.
 
 # Heading
 
@@ -17,7 +17,6 @@ $$\frac{2x}{444}$$
 
 **BOLD**
 
-
-Is this post being tracked??? 
+Is this post being tracked???
 
 Seems so.

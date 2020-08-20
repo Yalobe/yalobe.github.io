@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> I am a graduate of Williams College, currently completing the NYU Tandon Bridge to Masters Program. My interests include data science, machine learning, and blockchain technologies.

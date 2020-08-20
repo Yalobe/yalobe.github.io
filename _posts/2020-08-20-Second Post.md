@@ -1,7 +1,7 @@
 ---
-title: First Post!
+title: Second Post
 date: 2020-08-20 09:00:00 -0400
-categories: Blog Posts
+categories: [Posts, Testing]
 tags: blog first post   # TAG names should always be lowercase
 toc: false
 math: false

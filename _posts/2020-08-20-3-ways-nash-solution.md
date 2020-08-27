@@ -15,4 +15,4 @@ While walking down the street with a friend, you stumble upon \$100. Given that 
 
 We can describe the options before us with the following curve:
 
-!(Fig 1: Ways to split \$100)[{yalobe.github.io\assets\img\3_ways_nash_solution\optimalSplits100.jpeg]
+!(Fig 1: Ways to split \$100)[{{{yalobe.github.io}}\assets\img\3_ways_nash_solution\optimalSplits100.jpeg]

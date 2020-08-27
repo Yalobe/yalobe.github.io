@@ -7,7 +7,7 @@ toc: false
 math: true
 ---
 
-In my senior year of college, I gave a seminar talk titled "3 Ways of Approaching the Nash Bargaining Solution."  Unfortunately, the talk was not recorded.  Here, I'll attempt to sketch the three proofs out again. Unfortunately, I don't have my old notes, so this might be a bit rough around the edges!
+In my senior year of college, I gave a seminar talk titled "3 Ways of Approaching the Nash Bargaining Solution."  Unfortunately, the talk was not recorded.  Here, I'll attempt to sketch the three proofs out again. I don't have all of my old notes, so this might be a bit rough around the edges!
 
 ## Introduction and First Proof
 
@@ -15,4 +15,4 @@ While walking down the street with a friend, you stumble upon \$100. Given that 
 
 We can describe the options before us with the following curve:
 
-!(Fig 1: Ways to split \$100)[{{https://yalobe.github.io}}\assets\img\3_ways_nash_solution\optimalSplits100.jpeg]
+!(Fig 1: Ways to split \$100)[{{https://yalobe.github.io}}/assets/img/3_ways_nash_solution/optimalSplits100.jpeg]

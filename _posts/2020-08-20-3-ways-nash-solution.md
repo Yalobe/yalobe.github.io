@@ -23,4 +23,20 @@ Quite reasonably, you might expect the solution to be a point like the one demon
 
 ![Fig 1](https://yalobe.github.io/assets/img/3_ways_nash_solution/optimalPoint100.jpeg)
 
-We will demonstrate why this *has* to be the solution in the section below.
+Next, we will demonstrate why this *has* to be the solution.
+
+## Formalizing our Intuition
+
+Let make the scenario a bit more rigorous.  In a Nash Bargaining Game, there are two actors and there is a pot of money with $T$ dollars (or euro, or whatever) in it. Both players submit requests, $r_1$ and $r_2$, representing a portion of the total.  If $r_1 +r_2  \leq T$, both walk away with what they asked for. However, if $r_1 + r_2 > T$, both players get nothing. In our scenario above, $T = 100$ and we expected $r_1 = r_2 = 50$.
+
+Nash identified four axioms that a solution to a game of this type should satisfy:
+
+1. Invariance to transformations
+2. Pareto Optimality
+3. Independence of Irrelevant Alternatives
+4. Symmetry
+
+Let's take a look at each one in more depth.
+
+### Invariance to Transformations
+

@@ -3,7 +3,7 @@ title: 3 Ways of Approaching the Nash Bargaining Solution
 date: 2020-08-27 09:00:00 -0400
 categories: [Posts, Projects]
 tags: [blog, project, math, game-theory]    # TAG names should always be lowercase
-toc: false
+toc: true
 math: true
 ---
 
@@ -27,7 +27,7 @@ Next, we will demonstrate why this *has* to be the solution.
 
 ## Formalizing our Intuition
 
-Let make the scenario a bit more rigorous.  In a Nash Bargaining Game, there are two actors and there is a pot of money with $T$ dollars (or euro, or whatever) in it. Both players submit requests, $r_1$ and $r_2$, representing a portion of the total.  If $r_1 +r_2 \leq T$, both walk away with what they asked for. However, if $r_1 + r_2 > T$, both players get nothing. In our scenario above, $T = 100$ and we expected $r_1 = r_2 = 50$.
+Let make the scenario a bit more rigorous.  In a Nash Bargaining Game, there are two actors and there is a pot of money with $T$ dollars (or euro, or whatever) in it. Both players submit requests, \(r_1\) and $r_2$, representing a portion of the total.  If $r_1 +r_2 \leq T$, both walk away with what they asked for. However, if $r_1 + r_2 > T$, both players get nothing. In our scenario above, $T = 100$ and we expected $r_1 = r_2 = 50$.
 
 Nash identified four axioms that a solution to a game of this type should satisfy:
 

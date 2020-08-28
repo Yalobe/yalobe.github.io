@@ -40,11 +40,12 @@ Let's take a look at each one in more depth.
 
 ### Invariance to Transformations
 
-This captures the idea that we can transform the plane, but the relations between our points are maintained. Say point $$(a, b)$$ is such that $$a < a'$$. Then any transformation of the plane that maintains this relationship will result in the same solution. 
+This captures the idea that we can transform the plane, but the relations between our points are maintained. Say point $$(a, b)$$ is such that $$a \leq a'$$ and $$b \leq b'$$. Then any transformation of the plane that maintains this relationship will result in the same solution. 
 
 ![Fig 3](https://yalobe.github.io/assets/img/3_ways_nash_solution/affineTransforms.jpeg)
 
-### Pareto Optimality
+
+Why do we want to resist these transformations of the plane? It comes back to the idea of transitivity and relations between outcomes. As these are order preserving changes to the plane, they are unable to affect the ordered relations between outcomes. If $$t \ in T$$ is preferred to $$t' \in T$$, then under any affine transformation this relationship is preserved.
 
 ### Independence of Irrelevant Alternatives
 

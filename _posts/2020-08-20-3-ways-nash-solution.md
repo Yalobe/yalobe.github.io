@@ -45,7 +45,7 @@ This captures the idea that we can transform the plane, but the relations betwee
 ![Fig 3](https://yalobe.github.io/assets/img/3_ways_nash_solution/affineTransforms.jpeg)
 
 
-Why do we want to resist these transformations of the plane? It comes back to the idea of transitivity and relations between outcomes. As these are order preserving changes to the plane, they are unable to affect the ordered relations between outcomes. If $$t \ in T$$ is preferred to $$t' \in T$$, then under any affine transformation this relationship is preserved.
+Why do we want to resist these transformations of the plane? It comes back to the idea of transitivity and relations between outcomes. As these are order preserving changes to the plane, they are unable to affect the ordered relations between outcomes. If $$t \in T$$ is preferred to $$t' \in T$$, then under any affine transformation this relationship is preserved.
 
 ### Independence of Irrelevant Alternatives
 
